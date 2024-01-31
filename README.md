@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-I'm Filipe Mata, and this is my GitHub repository where I showcase my work, experiments, and projects related to software engineering. Whether you stumbled upon this by chance or you're intentionally checking out my code, I'm delighted to have you here!
+I'm Filipe Mata, and this is my GitHub repository, where I showcase my work, experiments, and projects related to software engineering. Whether you stumbled upon this by chance or you're intentionally checking out my code, I'm delighted to have you here!
 
 ## About Me
 
-I am a passionate software engineer with a keen interest in code design and software architecutre. I love solving complex problems, building scalable applications, and constantly learning new things in the ever-evolving world of technology. Currently, I'm playing with some AI and ML contents.
+I am a passionate software engineer interested in code design and software architecture. I love solving complex problems, building scalable applications, and constantly learning new things in the ever-evolving world of technology. Currently, I'm playing with some AI and ML content.
 
 ## Stats
 
@@ -14,11 +14,11 @@ I am a passionate software engineer with a keen interest in code design and soft
 
 ## Get in Touch
 
-I'm always excited to connect with other developers, tech enthusiasts, or anyone interested in what I do. Feel free to reach out to me through links below. Let's code, learn, and grow together!
+I'm always excited to connect with other developers, tech enthusiasts, or anyone interested in my work. Feel free to reach out to me through the links below. Let's code, learn, and grow together!
 Thank you for stopping by, and happy coding! 🚀
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/lucianahanan/" target="_blank">
+  <a href="https://www.linkedin.com/in/filipe-mata-dev/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="linkedin logo"  />
   </a>
 </div>
